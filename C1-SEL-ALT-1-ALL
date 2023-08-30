@@ -102,7 +102,7 @@ LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4K" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] 4K[/B][/COLOR]",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Globo SP 4K[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://supertv.red:80/luiz222/222luiz/124897.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S-ALT-1[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://supertv.red:80/luiz222/222luiz/124897.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4k²" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] 4K[/B][/COLOR]",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Globo SP 4k²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1A[/B][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://supertv.red:80/luiz222/222luiz/101828.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4K H265" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="[COLOR orange][B]S-ALT-1[COLOR yellow] ->[COLOR white] 4K[/B][/COLOR]",[COLOR orange][B]S-ALT-1[COLOR yellow] -> [COLOR white]Globo SP 4K H265[/B][/COLOR]
