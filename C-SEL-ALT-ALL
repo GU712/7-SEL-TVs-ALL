@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERVER ALT 1[/B][/COLOR]</name>
+<name>[COLOR white][B]SERVER 1[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-SEL-TVs-ALL/main/C1-SEL-ALT-1-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
@@ -40,7 +40,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERVER ALT 2[/B][/COLOR]</name>
+<name>[COLOR white][B]SERVER 2[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-SEL-TVs-ALL/main/C2-SEL-ALT-2-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
@@ -50,7 +50,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SERVER ALT 3[/B][/COLOR]</name>
+<name>[COLOR white][B]SERVER 3[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-SEL-TVs-ALL/main/C3-SEL-ALT-3-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
@@ -58,8 +58,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[COLOR white][B]SERVER ALT 4[/B][/COLOR]</name>
+<channels>
+<channel>
+<name>[COLOR white][B]SERVER 4[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/7-SEL-TVs-ALL/main/C4-SEL-ALT-4-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
