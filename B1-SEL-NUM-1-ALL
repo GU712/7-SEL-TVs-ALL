@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VqVjS1r/TVs-ONLINE-SERV-3.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo UHD 4K" tvg-logo="https://fivetv.xyz/logos/globo.png" group-title="[COLOR orange][B]LS-TVs-S1[COLOR yellow] ->[COLOR white]UHD 4K[/B][/COLOR]",[COLOR orange][B]TV-S1 [COLOR yellow]-> [COLOR white]Globo UHD 4K[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1[/B][/COLOR];maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/Josuel532/Js7498/28586.m3u8
 #EXTINF:-1 tvg-id="Recordsp.br" tvg-name="Record UHD 4K" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="[COLOR orange][B]LS-TVs-S1[COLOR yellow] ->[COLOR white]UHD 4K[/B][/COLOR]",[COLOR orange][B]TV-S1 [COLOR yellow]-> [COLOR white]Record UHD 4K[/B][/COLOR]
@@ -2973,3 +2976,12 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1[/B][/COLOR];maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/Josuel532/Js7498/122165.m3u8
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="11-SÉRIE A- Grêmio X Vasco 19:00²" tvg-logo="http://st1.braz.vip:8080/icon/7300-b-1709039201544.png" group-title="[COLOR orange][B]LS-TVs-S1[COLOR yellow] ->[COLOR white]JOGOS BRASILEIRÃO[/B][/COLOR]",[COLOR orange][B]TV-S1 [COLOR yellow]-> [COLOR white]11-SÉRIE A- Grêmio X Vasco 19:00²[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR orange][B]LS-TVs[COLOR yellow] -> [COLOR white]S1[/B][/COLOR];maxbitrate=0&amp;Buffer=99999&amp;url=http://5ce.co:80/live/Josuel532/Js7498/122162.m3u8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
