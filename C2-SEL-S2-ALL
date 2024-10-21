@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zNNcWH4/SEL-ITEM-TVS-ICON.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="tv.atalaia.br" tvg-name="RECORD TV ATALAIA HD¹" tvg-logo="https://prostore.app/logos/record.png" group-title="[COLOR white][B]RECORD[COLOR yellow] -> [COLOR orange]S2[/B][/COLOR]",[COLOR white][B]RECORD TV ATALAIA HD¹[COLOR yellow] -> [COLOR orange]S2[/B][/COLOR]
@@ -1967,9 +1967,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COL
 #EXTINF:-1 tvg-id="" tvg-name="24H O SOCIO" tvg-logo="https://prostore.app/logos/24H.png" group-title="[COLOR white][B]24H SERIES - PROGRAMAS[COLOR yellow] -> [COLOR orange]S2[/B][/COLOR]",[COLOR white][B]24H O SOCIO[COLOR yellow] -> [COLOR orange]S2[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S2[/B][/COLOR]&amp;url=http://main.appnew.pro:80/live/pruuph4s/s23j5het/644695.m3u8
 
+[COLOR black].[/COLOR]
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white][COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR orange][B]SUPORTE[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white][COLOR orange][B]RETORNE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S2[/B][/COLOR]&amp;url=http://main.appnew.pro:80/live/pruuph4s/s23j5het/644695.m3u8
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
