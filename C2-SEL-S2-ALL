@@ -1968,8 +1968,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COL
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S2[/B][/COLOR]&amp;url=http://main.appnew.pro:80/live/pruuph4s/s23j5het/644695.m3u8
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR black][B].[/B][/COLOR][/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white][COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white][COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR][/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white][COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]",[COLOR orange][B]LS-TVs-S4[COLOR yellow] -> [COLOR white][COLOR orange][B]RETORNE[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
