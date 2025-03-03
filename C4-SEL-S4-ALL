@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNNcWH4/SEL-ITEM-TVS-ICON.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-id="" tvg-name="24H • 101 DALMATAS" tvg-logo="http://imgu.top/logos/101DALMATAS250.png" group-title="[COLOR white][B]CANAIS • 24H DESENHOS[COLOR yellow] -> [COLOR orange]S4[/B][/COLOR]",[COLOR white][B]24H • 101 DALMATAS[COLOR yellow] -> [COLOR orange]S4[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S4[/B][/COLOR]&amp;url=http://toddyx.eu:80/351475663/457211652/1568950.m3u8
@@ -2667,7 +2668,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COL
 #EXTINF:-1 tvg-id="" tvg-name="TV ATALAIA" tvg-logo="https://loopstatic.net/record.png" group-title="[COLOR white][B]CANAIS • RECORD[COLOR yellow] -> [COLOR orange]S4[/B][/COLOR]",[COLOR white][B]TV ATALAIA[COLOR yellow] -> [COLOR orange]S4[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR yellow] -> [COLOR orange][B]S4[/B][/COLOR]&amp;url=http://toddyx.eu:80/351475663/457211652/1798003.m3u8
 
+[COLOR black].[/COLOR]
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR orange][B]SUPORTE[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png" group-title="[COLOR orange][B]CONTRIBUIR... É MANTER O LUMINART ON-LINE[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
